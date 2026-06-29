@@ -5,3 +5,4 @@ langchain-openai
 ipykernel
 tavily-python
 python-dotenv
+langchain_quickjs
